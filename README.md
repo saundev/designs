@@ -3,4 +3,4 @@ This repo contains visual overview of solutions created by Isaac Saunders (CEO o
 
 ## HLD 1
 
-![image](assets/cloudflare-aws-static-site-hld.png)
+![image](assets/cloudflare-s3-static-site-hld.png)
